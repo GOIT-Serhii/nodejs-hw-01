@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "a4bbcf2d-86a5-4b08-9c17-410f7e81c43d",
+    "name": "Earl Corwin",
+    "phone": "1-867-304-3393 x827",
+    "email": "Adela.Feest75@yahoo.com",
+    "job": "Global Accounts Supervisor"
+  },
+  {
+    "id": "75e96ec0-3b77-4d69-9c97-1e24c78d8b21",
+    "name": "Ada Boyle",
+    "phone": "647.732.2008 x912",
+    "email": "Lexus.King76@hotmail.com",
+    "job": "National Identity Supervisor"
+  },
+  {
+    "id": "0a042eee-2d2d-4fd0-aaf5-57eefd8baed8",
+    "name": "Mr. Armando Hyatt",
+    "phone": "673-846-9350 x7668",
+    "email": "Carolyne_Cassin-Reichel11@yahoo.com",
+    "job": "Chief Program Executive"
+  },
+  {
+    "id": "d3c8fde6-2063-4327-9cb3-da35759d6c00",
+    "name": "Mr. Cesar Leuschke",
+    "phone": "262-584-3141 x93640",
+    "email": "Christ8@gmail.com",
+    "job": "Internal Brand Facilitator"
+  }
+]
